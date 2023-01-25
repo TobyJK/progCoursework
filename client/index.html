@@ -1,11 +1,8 @@
 <!DOCTYPE html>
 <html lang="en-gb">
-
-</html>
-
 <head>
     <link rel="stylesheet" href="css/bootstrap.css">
-    <!--<link rel="stylesheet" href="/styles.css">-->
+    <link rel="stylesheet" href="/styles.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     <title>Film Ratings</title>
 </head>
@@ -16,15 +13,25 @@
     <script src="js/jquery.backstretch.min.js"></script>
     <div id="welcome">
         <h1>Welcome to the rating page</h1>
-        <p>Click the button below to be shown a random film and give it your rating.</p>
+        <p>Either lick the button below to be shown a random film and give it your rating.</p>
         <p>My rating and comments will be hidden until you submit yours.</p>
+        <p>Or click the table button to see a list of all films in our database and to see your ratings for any applicable.</p>
     </div>
+    <button id="get">Get film</button>
+    <button id="getTable">See table</button>
+    <table id="table"></table>
+    <br><br>
     <div id="content">
         <img id="image">
         <h2 id="name"></h2>
-        <p id="rating"></p>
+        <p id="myRating"></p>
+        <p id="yours"></p>
+        <form id="submitRating">
+            <label for="yourRating">Enter your rating:</label><br>
+            <input type="text" id="yourRating" name="yourRating"><br>
+            <button id="rating">Submit</button>
+        </form>
     </div>
-    <button id="get">Get film</button>
     <script src="films.js"></script>
 </body>
 
