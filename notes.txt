@@ -1,0 +1,5 @@
+do random films appearing one at a time for rating
+so generate film button to bring a new film in with photo, they enter their score and then they can see mine
+separate button allowing them to add their own film with their own rating if it doesnt exist for me
+search box for specific film if they want it
+be able to see list of all films with smaller images and rating and comment in table

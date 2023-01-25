@@ -1,0 +1,19 @@
+{
+    "Death of Stalin" : {"Rating" : 10.0, "Path" : "images/deathOfStalin.png"},
+    "Star Wars Episode I - The Phantom Menace" : {"Rating" : 5.7, "Path" : "images/phantomMenace.jpg"},
+    "Star Wars Episode II - Attack of the Clones" : {"Rating" : 4.2, "Path" : "images/attackOfTheClones.jpg"},
+    "Star Wars Episode III - Revenge of the Sith" : {"Rating" : 7.7, "Path" : "images/revengeOfTheSith.jpg"},
+    "Star Wars Episode IV - A New Hope" : {"Rating" : 8.1, "Path" : "images/newHope.jpg"},
+    "Star Wars Episode V - The Empire Strikes Back" : {"Rating" : 8.4, "Path" : "images/empireStrikesBack.jpg"},
+    "Star Wars Episode VI - Return of the Jedi" : {"Rating" : 7.6, "Path" : "images/returnOfTheJedi.jpg"},
+    "Star Wars Episode VII - The Force Awakens" : {"Rating" : 6.1, "Path" : "images/forceAwakens.jpg"},
+    "Star Wars Episode VIII - The Last Jedi" : {"Rating" : 2.7, "Path" : "images/lastJedi.jpg"},
+    "Star Wars Episode IX - The Rise of Skywalker" : {"Rating" : 2.4, "Path" : "images/riseOfSkywalker.jpg"},
+    "Rogue One: A Star Wars Story" : {"Rating" : 8.9, "Path" : "images/rogueOne.png"},
+    "Batman Begins" : {"Rating" : 7.8, "Path" : "images/batmanBegins.jpg"},
+    "The Dark Knight" : {"Rating" : 9.5, "Path" : "images/darkKnight.jpg"},
+    "The Dark Knight Rises" : {"Rating" : 8.0, "Path" : "images/darkKnightRises.jpg"},
+    "Inception" : {"Rating" : 8.7, "Path" : "images/inception.jpg"},
+    "Dunkirk" : {"Rating" : 7.9, "Path" : "images/dunkirk.jpg"},
+    "Tenet" : {"Rating" : 9.3, "Path" : "images/tenet.jpg"}
+}
